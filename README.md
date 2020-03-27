@@ -2,7 +2,8 @@
 Curso Balta.io - Criando APIs com Node
 
 Observações:
-  - executar a API: npm start
+  - executar a API
+    - npm start
   
   - alterar os seguintes arquivos/campos:
   
