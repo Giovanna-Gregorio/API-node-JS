@@ -6,7 +6,7 @@ Observações:
   
   - alterar os seguintes arquivos/campos:
   
-    -app.js
+    - app.js
       - mongoose.connect() 
       
     - config.js
