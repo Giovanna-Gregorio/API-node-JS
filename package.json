@@ -17,6 +17,7 @@
     "guid": "0.0.12",
     "http": "0.0.1-security",
     "jsonwebtoken": "^8.5.1",
+    "lodash.update": "^4.10.2",
     "md5": "^2.2.1",
     "mongoose": "^5.9.6",
     "save": "^2.4.0",
